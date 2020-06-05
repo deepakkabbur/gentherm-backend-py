@@ -12,7 +12,7 @@ coverage = "*"
 black = "==18.9b0"
 
 [packages]
-django = "==3.0"
+django = "==3.0.7"
 django-environ = "==0.4.5"
 psycopg2 = "==2.7.7"
 psycopg2-binary = "==2.7.7"
